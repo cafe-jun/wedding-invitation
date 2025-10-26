@@ -17,10 +17,10 @@ const notoSerif = Noto_Serif_KR({
 });
 
 export const metadata: Metadata = {
-  title: "이지훈 ❤️ 유수진 결혼합니다",
+  title: "신00 ❤️ 이00 결혼합니다",
   description: "2024년 10월 26일 토요일 오후 1시 30분",
   openGraph: {
-    title: "이지훈 ❤️ 유수진 결혼합니다",
+    title: "신00 ❤️ 이00 결혼합니다",
     description: "2024년 10월 26일 토요일 오후 1시 30분",
     type: "website",
   },

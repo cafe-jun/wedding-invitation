@@ -4,9 +4,17 @@ const config: ThemeConfig = {
   initialColorMode: "light",
   useSystemColorMode: false,
 };
+const breakpoints = {
+  base: "0em", // 0px
+  sm: "30em", // 480px
+  md: "48em", // 768px
+  lg: "62em", // 992px
+  xl: "80em", // 1280px
+};
 
 const theme = extendTheme({
   config,
+  breakpoints,
   fonts: {
     heading: `'Noto Serif KR', serif`,
     body: `'Noto Sans KR', sans-serif`,
